@@ -10,21 +10,15 @@
 
 /*/    Test Cases for program5
  *     Name Tests: 
- *     BOWSER  ,   Benjamin leonard    >>>  Benjamin L. Bowser
- *     smiTH    ,   mAry        JEAN  >>>  Mary J. Smith 
  *     smith, mary jean  >>>  Mary J. Smith
  * 
  *     Telephone number Tests:
- *     6 1 4- 5 60  - 34  1 3  >>>  (614)560-3413
- *     61    4   - 56 0 - 3413 >>> (614)560-3413
- *     614 - 560 -3413  >>> (614)560-3413
+ *   
  * 
  *     Address Tests:
  *     301 S. Campus Ave, Oxford, OH 45056  >>> 301 S. Campus Ave
                                                 Oxford, OH 45056
  
- *     5262 Brown Road, Apt. 2131, Oxford, Ohio 45056 >>> 5262 Brown Road, Apt. 2131
-                                                          Oxford, Ohio 45056
  * 
  *     123 Sesame Street, 3rd Floor, Left Hallway, Last Door on the Left, New York, New York 45056
                             >>>  123 Sesame Street, 3rd Floor, Left Hallway, Last Door on the Left
